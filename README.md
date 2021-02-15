@@ -1,3 +1,3 @@
-# Project-Uber-Trips-in-New-York-Analysis
+# Project-Hotel Booking Analysis
 
 EDA Project
